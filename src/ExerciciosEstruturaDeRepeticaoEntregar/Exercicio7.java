@@ -14,7 +14,7 @@ public class Exercicio7 {
             if (numero % i == 1){
                 System.out.println("O número " + numero + " é primo!");
             }else {
-                System.out.println("O número " + numero + " não é primo!");
+
             }
             // ainda não consegui fazer esse exercício.
         }
